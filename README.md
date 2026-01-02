@@ -1,7 +1,7 @@
 # 📊 Proyecto 12. Análisis de Tendencias de Videos en YouTube | Dashboard en Tableau
 
 ## 🧩 Descripción del proyecto
-Este proyecto consiste en el diseño y desarrollo de un dashboard interactivo en Tableau Public para analizar el historial de tendencias de videos en YouTube.  
+Este repositorio consiste en el diseño y desarrollo de un dashboard interactivo en Tableau Public para analizar el historial de tendencias de videos en YouTube.  
 El objetivo es apoyar la toma de decisiones en marketing digital, identificando qué categorías de videos son más populares, cómo se distribuyen por región y cómo evolucionan en el tiempo.
 
 El dashboard fue desarrollado como un **caso real de negocio** para la agencia publicitaria Sterling & Draper.
